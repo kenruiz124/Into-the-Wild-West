@@ -1,0 +1,21 @@
+h1{color: #BB320A;
+	font-family: Impact;
+	font-size: 40px;
+	text-align: center;}
+h2{color: #C13B00;
+	font-size: 30px;
+	text-align: center}
+h3{font-style: italic;
+	font-size: 15px;
+	text-align: center;}
+p{font-family: sans-serif;
+	border: 1px; solid: #ffffff;
+	padding: 20px;
+	background-color: #FFBA67;
+	font-size: 18px;
+	text-align: center}
+a {color: #FFF88E}
+body{background-color: #FC9B25;
+	margin: 50px}
+img{margin: 0 auto;
+	display: block}
